@@ -22,7 +22,7 @@ function init(){
     var siete = document.getElementById('siete');
     var ocho = document.getElementById('ocho');
     var nueve = document.getElementById('nueve');
-    var cere = document.getElementById('cera');
+    var cero = document.getElementById('cero');
 }
 
     //Eventos de Click
